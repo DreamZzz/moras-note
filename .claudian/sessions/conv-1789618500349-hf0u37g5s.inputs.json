@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789618500349-hf0u37g5s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789618500382-vanm6tn",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789618500344-qvodmbm",
+      "timestamp": 1789618500344,
+      "rawDisplayText": "请只回复：Codex 已连接",
+      "canonicalText": "请只回复：Codex 已连接",
+      "context": {
+        "linkedContent": {
+          "path": "欢迎.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "90e8943668bcd8485935828aa74ad4263f08f5b641da55eff018b51909d19661",
+      "providerUserMessageId": "01a0ad93-48ab-71c0-a4a2-3d9db9267398",
+      "providerAssistantMessageId": "msg_09978610d029c7f3016aab694b19d487d08ff0513e2960234a"
+    }
+  ]
+}

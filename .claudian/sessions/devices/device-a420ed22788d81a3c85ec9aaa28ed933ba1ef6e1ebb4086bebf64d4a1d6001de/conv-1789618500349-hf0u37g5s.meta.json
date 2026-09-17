@@ -1,0 +1,28 @@
+{
+  "id": "conv-1789618500349-hf0u37g5s",
+  "providerId": "codex",
+  "title": "请只回复：Codex 已连接",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1789618500362,
+  "lastActivityAt": 1789618507793,
+  "sessionId": "01a0ad93-3352-7672-b5e0-316384668eaa",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a0ad93-3352-7672-b5e0-316384668eaa",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/zhao/.codex/sessions/2026/09/17/rollout-2026-09-17T12-15-00-01a0ad93-3352-7672-b5e0-316384668eaa.jsonl",
+    "transcriptRootPath": "/Users/zhao/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "欢迎.md",
+  "usage": {
+    "inputTokens": 13929,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 8960,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 13929,
+    "percentage": 5,
+    "model": "gpt-5.6-sol"
+  }
+}
