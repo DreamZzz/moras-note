@@ -1,0 +1,9 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/obsidian_askpass.sh
+.obsidian/plugins/realclaudian/data.json
